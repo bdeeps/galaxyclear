@@ -1,0 +1,126 @@
+{
+  "slug": "galaxyclear",
+  "box": 172,
+  "question": "How does a galaxy work?",
+  "url": "https://glassbox.how/e/galaxyclear/",
+  "app": "https://glassbox.how/galaxyclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a river of milk across the night to a photograph of the black hole at its heart.\n\n450 BCE: A road of faint stars?\n1610: Galileo turns the band into stars\n1912: Leavitt's law\n1923: A Cepheid in Andromeda\n1927: The Galaxy rotates\n1929: Farther means faster\n\nThe full story, with 32 moments, sources and charts: glassbox.how/e/galaxyclear/history (link in bio)\n\nThen play with how it works: glassbox.how/galaxyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #galaxy #milkyway #darkmatter #spiralarms #blackhole #hubble #history",
+      "youtube": {
+        "title": "The history of the galaxy in 45 seconds #shorts",
+        "description": "From a river of milk across the night to a photograph of the black hole at its heart.\n\n450 BCE · A road of faint stars? (Democritus and Anaxagoras)\n1610 · Galileo turns the band into stars (Galileo Galilei)\n1912 · Leavitt's law (Henrietta Swan Leavitt)\n1923 · A Cepheid in Andromeda (Edwin Hubble)\n1927 · The Galaxy rotates (Jan Oort, after Bertil Lindblad)\n1929 · Farther means faster (Edwin Hubble)\n\n▶ Full history: https://glassbox.how/e/galaxyclear/history/\n▶ Play with it: https://glassbox.how/e/galaxyclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a galaxy work?\n\nA few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.\n\n→ The Milky Way: a bar and bulge, a thin disc with spiral arms, a faint halo, and the Sun 26,700 light-years out.\n→ Seen edge-on it is a plate, 100,000 light-years across and about 1,000 thick. We live inside it.\n→ Add up every star and all the gas: the outer disc should slow down. Measured, it does not.\n→ Only a halo of unseen mass, about a trillion Suns of dark matter, makes the curve fit.\n→ If the arms were fixed lines of stars, the faster inner stars would wrap them up within a few hundred million years.\n\nPlay with it yourself. It's free and open source: glassbox.how/galaxyclear (link in bio)\n\nBox No. 172 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #galaxy #milkyway #darkmatter #spiralarms #blackhole #hubble #astronomy #threejs",
+    "carousel": "Swipe through: How does a galaxy work?\n\nA few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.\n\nSave this for later, then play with the interactive version at glassbox.how/galaxyclear (link in bio).\n\nBox No. 172 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #galaxy #milkyway #darkmatter #spiralarms #blackhole #hubble",
+    "youtube": {
+      "title": "How does a galaxy work? #shorts",
+      "description": "A few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.\n\n▶ Play with it: https://glassbox.how/e/galaxyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/galaxyclear\n\nBox No. 172 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a galaxy work? (interactive explainer)",
+      "description": "A few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.\n\n▶ Play with the interactive version: https://glassbox.how/e/galaxyclear/\n⌘ Source code (MIT): https://github.com/bdeeps/galaxyclear\n\nIn this video:\n• A plate of stars with a bar in the middle. The Milky Way is a disc about 100,000 light-years across and about 1,000 thick, with a bar and bulge of old yellow stars at the centre, spiral arms of young blue stars and pink nebulae, a faint thick disc, and a sparse halo with about 150 globular clusters.\n• The outer stars should slow down. They don't.. Add up every star, all the gas and the black hole, and the pull on the outer disc is too weak: the speed should fall like Neptune's does.\n• Spiral arms are traffic jams. Inner stars lap the Galaxy far more often than outer ones, so arms made of fixed stars would wind up tight within a few hundred million years.\n• Spirals, ellipticals, irregulars, and crashes. Hubble's tuning fork sorts galaxies by shape, ellipticals on the handle and spirals and barred spirals on the prongs.\n• Gas to stars to dust to gas. The Milky Way turns about 1.65 Suns' worth of gas into stars every year and hosts about two supernovae a century.\n• A ladder of distances, and a count. Parallax fixes the nearby stars, Leavitt's Cepheids reach the nearest galaxies, and Hubble's law, speed proportional to distance, reaches across the expanding universe.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a galaxy work?\n\nA few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see.\n\nPlay with it: https://glassbox.how/e/galaxyclear/",
+    "linkedin": "How does a galaxy work?\n\nA few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.\n\n1. A plate of stars with a bar in the middle\n2. The outer stars should slow down. They don't.\n3. Spiral arms are traffic jams\n4. Spirals, ellipticals, irregulars, and crashes\n5. Gas to stars to dust to gas\n6. A ladder of distances, and a count\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 172 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/galaxyclear/\nCode: https://github.com/bdeeps/galaxyclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-14T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-14T09:59:26.811Z"
+}

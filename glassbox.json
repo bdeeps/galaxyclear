@@ -1,0 +1,105 @@
+{
+  "slug": "galaxyclear",
+  "box": 172,
+  "date": "2026-10-16",
+  "title": "GalaxyClear",
+  "question": "How does a galaxy work?",
+  "hook": "A few hundred billion stars going round a black hole, held by gravity we can add up and by five times more that we cannot see. Stand at the Sun and watch the Milky Way vanish under city lights, add dark matter until the rotation curve fits, wind up the spiral arms, and crash two galaxies together.",
+  "thumbText": "HOW A GALAXY WORKS",
+  "thumbScene": 1,
+  "field": "physics",
+  "minutes": 14,
+  "tags": [
+    "galaxy",
+    "Milky Way",
+    "dark matter",
+    "spiral arms",
+    "black hole",
+    "Hubble",
+    "astronomy",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A plate of stars with a bar in the middle",
+      "text": "The Milky Way is a disc about 100,000 light-years across and about 1,000 thick, with a bar and bulge of old yellow stars at the centre, spiral arms of young blue stars and pink nebulae, a faint thick disc, and a sparse halo with about 150 globular clusters. At the very centre sits Sagittarius A*, a black hole of about 4 million solar masses. The Sun is 26,700 light-years out, on the Orion Spur, so we see the disc edge-on as a band across the night sky: Akash Ganga, the Ganges of the sky."
+    },
+    {
+      "title": "The outer stars should slow down. They don't.",
+      "text": "Add up every star, all the gas and the black hole, and the pull on the outer disc is too weak: the speed should fall like Neptune's does. Measured, the Milky Way turns at 229 km/s at the Sun and still about 200 km/s at 25 kpc. The usual answer is a dark-matter halo of about a trillion solar masses, inferred from gravity and never yet identified. A minority of physicists prefer a change to gravity itself."
+    },
+    {
+      "title": "Spiral arms are traffic jams",
+      "text": "Inner stars lap the Galaxy far more often than outer ones, so arms made of fixed stars would wind up tight within a few hundred million years. Real arms are density waves: a slow-turning crowding of oval orbits that stars and gas pass through. Gas is squeezed on the way in and bursts into new stars, which is why arms glow blue and pink."
+    },
+    {
+      "title": "Spirals, ellipticals, irregulars, and crashes",
+      "text": "Hubble's tuning fork sorts galaxies by shape, ellipticals on the handle and spirals and barred spirals on the prongs. It is a catalogue, not a life story. When two discs collide, the stars miss each other, gravity throws out tidal tails, and the pair settles into one elliptical blob. Andromeda is coming our way: NASA's 2012 model says a meeting in about 4 billion years; a 2025 study gives close to even odds of no merger at all in 10 billion."
+    },
+    {
+      "title": "Gas to stars to dust to gas",
+      "text": "The Milky Way turns about 1.65 Suns' worth of gas into stars every year and hosts about two supernovae a century. Dying stars give the gas back enriched with carbon, oxygen and iron, so every generation of stars, and every one of us, is made of star stuff. Jets and winds from the black hole and from supernovae heat and expel gas, slowing the cycle. The Sun takes about 220 million years for one lap."
+    },
+    {
+      "title": "A ladder of distances, and a count",
+      "text": "Parallax fixes the nearby stars, Leavitt's Cepheids reach the nearest galaxies, and Hubble's law, speed proportional to distance, reaches across the expanding universe. The Milky Way sits in the Local Group of over 50 galaxies, near the Virgo cluster. Counts from Hubble's deep fields give 100 to 200 billion galaxies in the observable universe, or about 2 trillion once the faint ones are included."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Galaxy",
+      "def": "Billions of stars, with gas, dust and dark matter, held together by gravity and orbiting a common centre."
+    },
+    {
+      "term": "Rotation curve",
+      "def": "A graph of orbital speed against distance from a galaxy's centre. Spirals have flat ones, which is the evidence for dark matter."
+    },
+    {
+      "term": "Dark matter",
+      "def": "Unseen mass inferred from gravity. It seems to outweigh the stars in a galaxy about five to one, and nobody yet knows what it is."
+    },
+    {
+      "term": "Density wave",
+      "def": "A spiral-shaped crowding of orbits that turns slowly as a pattern while stars and gas sweep through it: the standard picture of spiral arms."
+    },
+    {
+      "term": "Sagittarius A*",
+      "def": "The black hole at the centre of the Milky Way, about 4 million solar masses, pictured by the Event Horizon Telescope on 12 May 2022."
+    },
+    {
+      "term": "Tuning fork",
+      "def": "Hubble's diagram sorting galaxies by shape: ellipticals E0–E7, lenticulars, then spirals and barred spirals on two prongs."
+    },
+    {
+      "term": "Cepheid",
+      "def": "A pulsing giant star whose period tells its true brightness (Leavitt, 1912), so it can be used to measure distance."
+    },
+    {
+      "term": "Hubble's law",
+      "def": "Galaxies recede at a speed proportional to their distance: v = H₀ × d. The universe is expanding."
+    },
+    {
+      "term": "Local Group",
+      "def": "Our neighbourhood of over 50 galaxies, about 10 million light-years across, led by Andromeda and the Milky Way."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "galaxyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

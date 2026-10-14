@@ -1,0 +1,1035 @@
+{
+  "title": "The history of the galaxy",
+  "tagline": "From a river of milk across the night to a photograph of the black hole at its heart.",
+  "intro": "For most of history the Milky Way was a glow with a story attached: Hera's milk, the Ganga of the sky. Galileo saw stars in it, Wright and Kant guessed its shape, and Herschel tried to count it. Then a hundred years of measuring, from Leavitt's pulsing stars to Hubble's redshifts and Rubin's rotation curves, turned it into one galaxy among trillions, spinning inside a halo of matter nobody can see, round a black hole we have now photographed.",
+  "eras": [
+    {
+      "id": "band",
+      "name": "A band across the sky",
+      "from": -500,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Myths name the glow, Greek atomists guess it is made of stars, and Galileo's telescope proves it."
+    },
+    {
+      "id": "shape",
+      "name": "Guessing the shape",
+      "from": 1700,
+      "to": 1900,
+      "color": "#ffb547",
+      "summary": "Wright and Kant imagine a flat layer of stars and other island universes; Herschel and Bessel begin to measure."
+    },
+    {
+      "id": "size",
+      "name": "How big, how far",
+      "from": 1900,
+      "to": 1930,
+      "color": "#ff7a59",
+      "summary": "Leavitt's Cepheids, Shapley's globular clusters and Hubble's plates settle that the Milky Way is one galaxy among many."
+    },
+    {
+      "id": "spin",
+      "name": "A spinning disc",
+      "from": 1925,
+      "to": 1965,
+      "color": "#5ce1a9",
+      "summary": "Rotation, dust, radio waves and the 21 cm line reveal the Galaxy's turning disc and its arms as density waves."
+    },
+    {
+      "id": "dark",
+      "name": "The dark side",
+      "from": 1965,
+      "to": 2010,
+      "color": "#7aa2ff",
+      "summary": "Flat rotation curves demand dark matter, a radio source marks the centre, a bar is found, and deep fields count the galaxies."
+    },
+    {
+      "id": "now",
+      "name": "Measured from inside",
+      "from": 2010,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Gaia maps a billion stars, the black hole is weighed and photographed, and India's telescopes listen in."
+    }
+  ],
+  "events": [
+    {
+      "year": -450,
+      "date": "c. 450 BCE",
+      "era": "band",
+      "art": "eye",
+      "key": true,
+      "title": "A road of faint stars?",
+      "who": "Democritus and Anaxagoras",
+      "where": "Abdera and Athens, Greece",
+      "country": "Greece",
+      "text": "Aristotle records that Anaxagoras, Democritus and their followers said the milky band across the sky was the light of many stars. Aristotle himself disagreed and placed it in the upper air. The Greeks called it the galaxias kyklos, the milky circle, after the myth of Hera's spilt milk, and that word became our galaxy.",
+      "why": "The right idea was on the table two thousand years before anyone could test it.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": -300,
+      "date": "c. 300 BCE onward",
+      "era": "band",
+      "art": "scroll",
+      "title": "Akash Ganga, the Ganga of the sky",
+      "who": "Sanskrit poets and the Puranas",
+      "where": "India",
+      "country": "India",
+      "text": "In Sanskrit the band is Ākāśagaṅgā, the Ganges of the sky, a heavenly river in the Mahabharata, the Ramayana and the Puranas; the name is still used in many Indian languages today. In the old texts it is the celestial Ganga of myth; dictionaries and everyday speech apply it to the Milky Way itself. It is culture and poetry, not astronomy, and all the lovelier for it.",
+      "why": "Every culture named the band. India saw a river flowing across the night.",
+      "sources": [
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "year": 1610,
+      "date": "13 March 1610",
+      "era": "band",
+      "art": "telescope",
+      "key": true,
+      "title": "Galileo turns the band into stars",
+      "who": "Galileo Galilei",
+      "where": "Padua and Venice, Italy",
+      "country": "Italy",
+      "text": "In Sidereus Nuncius, printed in Venice, Galileo reported what his telescope showed: the Milky Way is a mass of innumerable stars, too faint and too close together for the eye to separate. The cloud was a crowd.",
+      "why": "The first direct proof that the band is made of stars.",
+      "box": "anatomy",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "1750",
+      "era": "shape",
+      "art": "word",
+      "title": "A flat layer of stars",
+      "who": "Thomas Wright",
+      "where": "County Durham, England",
+      "country": "United Kingdom",
+      "text": "In An Original Theory or New Hypothesis of the Universe, Wright explained the band as an optical effect: we live inside a thin, flat layer of stars, and see many more of them when we look along the layer than across it.",
+      "why": "The first explanation of why a disc of stars looks like a band from inside.",
+      "box": "anatomy",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1755,
+      "date": "1755",
+      "era": "shape",
+      "art": "word",
+      "title": "Island universes",
+      "who": "Immanuel Kant",
+      "where": "Königsberg, Prussia (now Kaliningrad, Russia)",
+      "country": "Germany",
+      "text": "Reading a review of Wright's book, Kant went further in his Universal Natural History and Theory of the Heavens: the faint oval nebulae in the sky might be other Milky Ways, enormously far away. He published it anonymously.",
+      "why": "The idea of other galaxies, 170 years before it could be proved.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "3 February 1785",
+      "era": "shape",
+      "art": "telescope",
+      "title": "Counting stars to map the Galaxy",
+      "who": "William Herschel",
+      "where": "Datchet, England",
+      "country": "United Kingdom",
+      "text": "Herschel counted the stars in more than 600 patches of sky with his 20-foot telescope and turned the counts into the first map of the Milky Way: a ragged, flattened cloud with the Sun near the middle. He had no way to allow for the dust that hides the far stars, so the map was far too small.",
+      "why": "The first attempt to measure the shape of our galaxy from inside it.",
+      "box": "anatomy",
+      "sources": [
+        7,
+        0
+      ]
+    },
+    {
+      "year": 1838,
+      "date": "1838",
+      "era": "shape",
+      "art": "lens",
+      "title": "The first distance to a star",
+      "who": "Friedrich Bessel",
+      "where": "Königsberg, Prussia",
+      "country": "Germany",
+      "text": "Bessel measured the yearly parallax of the star 61 Cygni, about a third of an arcsecond, and so its distance: about 10 light-years. For the first time a star had a measured distance, and the scale of the Galaxy could begin to be laid out.",
+      "why": "The bottom rung of the distance ladder.",
+      "box": "scale",
+      "sources": [
+        52
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "3 March 1912",
+      "era": "size",
+      "art": "plate",
+      "key": true,
+      "title": "Leavitt's law",
+      "who": "Henrietta Swan Leavitt",
+      "where": "Harvard College Observatory, Cambridge, USA",
+      "country": "United States",
+      "text": "Studying photographic plates of the Small Magellanic Cloud, Leavitt found that Cepheid variable stars pulse with a rhythm set by their brightness: the longer the period, the brighter the star. Harvard Circular 173 carried the result under Pickering's name but began 'prepared by Miss Leavitt'.",
+      "why": "A standard candle: time a Cepheid's pulse and you can measure its distance.",
+      "box": "scale",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1918,
+      "date": "1918",
+      "era": "size",
+      "art": "telescope",
+      "title": "The Sun is not at the centre",
+      "who": "Harlow Shapley",
+      "where": "Mount Wilson Observatory, California, USA",
+      "country": "United States",
+      "text": "Using Leavitt's law and other tricks, Shapley measured the distances of the globular clusters and found they centre on a point far off in Sagittarius. The Milky Way was much bigger than anyone thought, and the Sun sat far from its middle.",
+      "why": "We were demoted from the centre of the Galaxy, as Copernicus had demoted the Earth.",
+      "box": "anatomy",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "26 April 1920",
+      "era": "size",
+      "art": "person",
+      "title": "The Great Debate",
+      "who": "Harlow Shapley and Heber Curtis",
+      "where": "National Museum, Washington, D.C., USA",
+      "country": "United States",
+      "text": "Before the National Academy of Sciences, Shapley argued that the Milky Way was the whole universe, 300,000 light-years across, with the spiral nebulae inside it. Curtis argued for a smaller Milky Way and for the spirals as island universes. Curtis was right about the spirals, Shapley about the Sun's off-centre place.",
+      "why": "The question of other galaxies was put sharply enough to be settled.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "1922",
+      "era": "size",
+      "art": "telescope",
+      "title": "Kapteyn's universe",
+      "who": "Jacobus Kapteyn",
+      "where": "Groningen, Netherlands",
+      "country": "Netherlands",
+      "text": "From star counts and motions Kapteyn drew a lens-shaped Galaxy about 40,000 light-years across with the Sun near the centre. It was the best model of its day, and wrong for the same reason as Herschel's: nobody yet knew that interstellar dust dims and hides distant stars.",
+      "why": "The last great map made without allowing for dust.",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "5–6 October 1923",
+      "era": "size",
+      "art": "telescope",
+      "key": true,
+      "title": "A Cepheid in Andromeda",
+      "who": "Edwin Hubble",
+      "where": "Mount Wilson Observatory, California, USA",
+      "country": "United States",
+      "text": "On plate H335H, taken with the 100-inch Hooker telescope, Hubble marked a star he first took for a nova, then crossed out the N and wrote VAR! It was a Cepheid. Leavitt's law put it, and Andromeda, far beyond the Milky Way. The result was read out at the American Astronomical Society meeting on 1 January 1925.",
+      "why": "Andromeda is another galaxy: the universe is full of them.",
+      "box": "scale",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "December 1926",
+      "era": "size",
+      "art": "word",
+      "title": "The tuning fork",
+      "who": "Edwin Hubble",
+      "where": "Mount Wilson Observatory, California, USA",
+      "country": "United States",
+      "text": "In 'Extragalactic nebulae' Hubble sorted galaxies into ellipticals, spirals, barred spirals and irregulars. The diagram we call the tuning fork, which appears in his 1936 book The Realm of the Nebulae, is credited by historians to John Reynolds and James Jeans as well. Hubble warned it was a classification, not an evolutionary sequence.",
+      "why": "The way galaxies are still sorted today.",
+      "box": "kinds",
+      "sources": [
+        16,
+        13
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "14 April 1927",
+      "era": "spin",
+      "art": "orbit",
+      "key": true,
+      "title": "The Galaxy rotates",
+      "who": "Jan Oort, after Bertil Lindblad",
+      "where": "Leiden, Netherlands",
+      "country": "Netherlands",
+      "text": "Lindblad had proposed in 1925 that the Milky Way rotates, with the outer parts turning more slowly. Oort found the proof in the motions of nearby stars and worked out the Sun's speed and the direction of the centre. The same year, in Louvain, Georges Lemaître derived that an expanding universe would make distant galaxies recede faster the farther they are.",
+      "why": "The Milky Way is a spinning disc, and the sky is expanding.",
+      "box": "rotation",
+      "sources": [
+        17,
+        18,
+        19,
+        15
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "15 March 1929",
+      "era": "spin",
+      "art": "wave",
+      "key": true,
+      "title": "Farther means faster",
+      "who": "Edwin Hubble",
+      "where": "Mount Wilson Observatory, California, USA",
+      "country": "United States",
+      "text": "Using distances to 46 galaxies and the redshifts measured mostly by Vesto Slipher, Hubble showed that galaxies recede at a speed proportional to their distance. His value of the constant, about 500 km/s per megaparsec, was seven times too big, but the law held.",
+      "why": "A galaxy's redshift became a measure of its distance, and the universe was found to be expanding.",
+      "box": "scale",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "spin",
+      "art": "night",
+      "title": "Dust between the stars",
+      "who": "Robert Trumpler",
+      "where": "Lick Observatory, California, USA",
+      "country": "United States",
+      "text": "Trumpler found that distant open star clusters look dimmer and redder than their sizes allowed. Something between the stars was dimming them: interstellar dust. It explained why Herschel and Kapteyn had drawn the Galaxy too small.",
+      "why": "Dust is why the band has dark lanes and why we cannot see the far side of our own galaxy.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1932,
+      "date": "16 September 1932",
+      "era": "spin",
+      "art": "wave",
+      "title": "A radio hiss from Sagittarius",
+      "who": "Karl Jansky",
+      "where": "Bell Telephone Laboratories, Holmdel, New Jersey, USA",
+      "country": "United States",
+      "text": "Hunting for the sources of static on transatlantic radio links, Jansky found a hiss that peaked every 23 hours 56 minutes, the length of a sidereal day, from the direction of Sagittarius: the centre of the Milky Way. He announced it in 1933.",
+      "why": "The birth of radio astronomy, and the first signal from the heart of the Galaxy.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1933",
+      "era": "spin",
+      "art": "night",
+      "title": "Dark matter in a cluster",
+      "who": "Fritz Zwicky",
+      "where": "California Institute of Technology, Pasadena, USA",
+      "country": "United States",
+      "text": "Zwicky measured how fast galaxies move inside the Coma cluster and found them far too fast for the visible stars to hold together. He concluded that 'dunkle Materie', dark matter, must be present in much greater amount than luminous matter.",
+      "why": "The first evidence that most of the universe's mass gives off no light.",
+      "box": "rotation",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1944,
+      "date": "1944",
+      "era": "spin",
+      "art": "night",
+      "title": "Two populations of stars",
+      "who": "Walter Baade",
+      "where": "Mount Wilson Observatory, California, USA",
+      "country": "United States",
+      "text": "With Los Angeles blacked out during the war, Baade resolved individual stars in the centre of Andromeda for the first time and saw two populations: young, blue Population I in the discs and arms, and old, red Population II in bulges and halos.",
+      "why": "Galaxies have histories, written in the ages of their stars.",
+      "box": "ecosystem",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "25 March 1951",
+      "era": "spin",
+      "art": "sinewave",
+      "title": "The 21 cm hum of hydrogen",
+      "who": "Harold Ewen and Edward Purcell, after Hendrik van de Hulst",
+      "where": "Harvard University, Cambridge, USA",
+      "country": "United States",
+      "text": "Van de Hulst had predicted in 1944 that cold hydrogen atoms give off radio waves at 1420 MHz, a wavelength of 21 cm. Ewen and Purcell caught it with a horn antenna; Dutch and Australian groups confirmed it within weeks. Within the decade, 21 cm maps traced the spiral arms of the Milky Way through the dust.",
+      "why": "Radio telescopes could now map the gas of galaxies and measure how they turn.",
+      "box": "scale",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1964",
+      "era": "spin",
+      "art": "orbit",
+      "key": true,
+      "title": "Arms as density waves",
+      "who": "C. C. Lin and Frank Shu",
+      "where": "Massachusetts Institute of Technology, USA",
+      "country": "United States",
+      "text": "Lin and Shu proposed that spiral arms are not material but waves: a spiral pattern of crowded orbits that turns at one slow pattern speed while stars and gas sweep through it. It answered the winding problem, which had asked why differential rotation does not wrap the arms up.",
+      "why": "Arms are traffic jams, not fixed spokes.",
+      "box": "arms",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "dark",
+      "art": "orbit",
+      "key": true,
+      "title": "Andromeda will not slow down",
+      "who": "Vera Rubin and Kent Ford",
+      "where": "Carnegie Institution, Washington, D.C., USA",
+      "country": "United States",
+      "text": "With Ford's sensitive new spectrograph, Rubin measured the speeds of gas clouds across Andromeda and found no fall-off towards the edge. In 1978 and 1980, with Norbert Thonnard, they showed the same flat rotation curves in dozens of spirals.",
+      "why": "Galaxies contain far more mass than their stars: the modern case for dark matter.",
+      "box": "rotation",
+      "sources": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "13–15 February 1974",
+      "era": "dark",
+      "art": "blackhole",
+      "title": "Sagittarius A* is found",
+      "who": "Bruce Balick and Robert Brown",
+      "where": "National Radio Astronomy Observatory, USA",
+      "country": "United States",
+      "text": "Balick and Brown detected a compact, bright radio source at the exact centre of the Milky Way. Brown named it Sagittarius A* in 1982, borrowing the asterisk physicists use for excited atoms.",
+      "why": "The object that would turn out to be the Galaxy's central black hole.",
+      "box": "anatomy",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1 October 1991",
+      "era": "dark",
+      "art": "night",
+      "title": "The Milky Way has a bar",
+      "who": "Leo Blitz and David Spergel",
+      "where": "Berkeley and Princeton, USA",
+      "country": "United States",
+      "text": "Looking at infrared maps of the central bulge, Blitz and Spergel showed that its lopsided shape meant a bar seen at an angle, with its near end on our side of the centre. COBE's infrared pictures soon showed the boxy bulge for everyone to see.",
+      "why": "Our galaxy is a barred spiral.",
+      "box": "anatomy",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "18–28 December 1995",
+      "era": "dark",
+      "art": "pixels",
+      "key": true,
+      "title": "The Hubble Deep Field",
+      "who": "Robert Williams and the Hubble team",
+      "where": "Space Telescope Science Institute, Baltimore, USA",
+      "country": "United States",
+      "text": "The Hubble Space Telescope stared at a blank patch of sky in Ursa Major for ten days, 342 exposures in all, and found about 3,000 galaxies, some of them from the universe's first billion years. The image was released in January 1996.",
+      "why": "Scaled to the whole sky, it put the galaxy count in the hundreds of billions.",
+      "box": "scale",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "29 August 2001",
+      "era": "dark",
+      "art": "mountain",
+      "title": "A telescope at 4,500 m in Ladakh",
+      "who": "Indian Institute of Astrophysics",
+      "where": "Hanle, Ladakh, India",
+      "country": "India",
+      "text": "The 2-metre Himalayan Chandra Telescope saw first light in September 2000 and the Indian Astronomical Observatory at Hanle was dedicated in August 2001, run by remote control from near Bengaluru. In 2022 the region became India's first dark-sky reserve.",
+      "why": "Some of the darkest, driest skies on Earth, where the Milky Way still shines.",
+      "box": "anatomy",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "dark",
+      "art": "wave",
+      "key": true,
+      "title": "The GMRT opens to the world",
+      "who": "Govind Swarup and NCRA-TIFR",
+      "where": "Khodad, near Pune, Maharashtra, India",
+      "country": "India",
+      "text": "Thirty steerable dishes, each 45 m across, spread over 25 km of farmland: the Giant Metrewave Radio Telescope, built from 1984 to 1996 under Govind Swarup. It was declared an international facility in October 2001 and opened to astronomers worldwide in 2002. Upgraded between 2012 and 2019, it listens to the 21 cm hydrogen line and the pulsars of our galaxy and beyond; in 2020 it caught the hydrogen hum of galaxies as they were 8 billion years ago.",
+      "why": "India's radio eye on the gas of galaxies, one of the most sensitive on Earth at these wavelengths.",
+      "box": "scale",
+      "sources": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "19 December 2013",
+      "era": "now",
+      "art": "chip",
+      "title": "Gaia maps a billion stars",
+      "who": "European Space Agency",
+      "where": "Kourou, French Guiana",
+      "country": "France",
+      "text": "ESA's Gaia satellite launched to measure the positions, distances and motions of over a billion stars. Its 2018 release gave parallaxes for 1.3 billion; the 2022 release 1.47 billion. From its maps came the Milky Way's rotation curve out to 25 kpc and the fossil record of galaxies it has swallowed.",
+      "why": "The Milky Way surveyed star by star from inside.",
+      "box": "scale",
+      "sources": [
+        39,
+        40,
+        41,
+        49
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "28 September 2015",
+      "era": "now",
+      "art": "rocket",
+      "title": "AstroSat",
+      "who": "ISRO",
+      "where": "Satish Dhawan Space Centre, Sriharikota, India",
+      "country": "India",
+      "text": "India's first dedicated astronomy satellite rode a PSLV to a 650 km orbit, carrying ultraviolet, optical and X-ray instruments that watch the same object at once. Its ultraviolet telescope has imaged star-forming galaxies and the hot, young stars that trace their arms.",
+      "why": "A multi-wavelength observatory from India.",
+      "sources": [
+        37
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "6 October 2020",
+      "era": "now",
+      "art": "blackhole",
+      "key": true,
+      "title": "A Nobel for the heart of the Galaxy",
+      "who": "Reinhard Genzel and Andrea Ghez (with Roger Penrose)",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "For nearly thirty years Genzel's and Ghez's teams had tracked stars whipping round Sagittarius A*, one of them at 2.7% of the speed of light. The orbits weigh the centre: 4.30 million Suns in a space smaller than the Solar System, and 26,700 light-years away by GRAVITY's 2019 measurement.",
+      "why": "Proof of a supermassive compact object, a black hole, at the centre of the Milky Way.",
+      "box": "anatomy",
+      "sources": [
+        44,
+        42,
+        43
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "12 May 2022",
+      "era": "now",
+      "art": "blackhole",
+      "key": true,
+      "title": "The picture of Sagittarius A*",
+      "who": "Event Horizon Telescope collaboration",
+      "where": "Eight radio observatories, worldwide",
+      "country": "Worldwide",
+      "text": "Linking radio dishes across the planet into one Earth-sized instrument, the EHT released the first image of our galaxy's black hole: a glowing ring of hot gas round a dark shadow, 52 millionths of an arcsecond across, the size of a doughnut on the Moon.",
+      "why": "We have seen the thing that anchors our galaxy.",
+      "box": "anatomy",
+      "sources": [
+        45
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2 June 2025",
+      "era": "now",
+      "art": "orbit",
+      "title": "Will Andromeda hit us? Maybe not",
+      "who": "Till Sawala and colleagues",
+      "where": "University of Helsinki, Finland",
+      "country": "Finland",
+      "text": "In 2012 NASA's Hubble team had predicted a head-on collision with Andromeda in about 4 billion years. Rerunning the orbits with the latest speeds and the tug of the Large Magellanic Cloud, Sawala's team found close to a 50% chance of no merger at all in the next 10 billion years.",
+      "why": "Even the future of our own galaxy is still being measured.",
+      "box": "kinds",
+      "sources": [
+        47,
+        46
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "The Milky Way resolved into stars",
+      "value": "1610",
+      "who": "Galileo Galilei, Italy"
+    },
+    {
+      "label": "Measured distance to a star",
+      "value": "1838",
+      "who": "Friedrich Bessel, Prussia"
+    },
+    {
+      "label": "Period-luminosity law of Cepheids",
+      "value": "1912",
+      "who": "Henrietta Leavitt, USA"
+    },
+    {
+      "label": "Proof that Andromeda is another galaxy",
+      "value": "1923–25",
+      "who": "Edwin Hubble, USA"
+    },
+    {
+      "label": "Rotation of the Milky Way measured",
+      "value": "1927",
+      "who": "Jan Oort, Netherlands"
+    },
+    {
+      "label": "Radio waves from the Galaxy",
+      "value": "1932",
+      "who": "Karl Jansky, USA"
+    },
+    {
+      "label": "Detection of the 21 cm hydrogen line",
+      "value": "25 March 1951",
+      "who": "Ewen and Purcell, USA"
+    },
+    {
+      "label": "Image of the Milky Way's black hole",
+      "value": "12 May 2022",
+      "who": "Event Horizon Telescope, worldwide"
+    }
+  ],
+  "people": [
+    {
+      "name": "Galileo Galilei",
+      "life": "1564 – 1642",
+      "role": "Astronomer",
+      "from": "Italy",
+      "note": "Saw with a telescope that the Milky Way is a crowd of faint stars."
+    },
+    {
+      "name": "William Herschel",
+      "life": "1738 – 1822",
+      "role": "Astronomer",
+      "from": "Germany and England",
+      "note": "Counted stars in 600 patches of sky to make the first map of the Galaxy."
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "life": "1868 – 1921",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Found that a Cepheid's pulse period gives its brightness: the key to cosmic distances."
+    },
+    {
+      "name": "Harlow Shapley",
+      "life": "1885 – 1972",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Showed the Sun sits far from the centre of a much bigger Milky Way."
+    },
+    {
+      "name": "Edwin Hubble",
+      "life": "1889 – 1953",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Proved Andromeda is a separate galaxy and that the universe is expanding."
+    },
+    {
+      "name": "Jan Oort",
+      "life": "1900 – 1992",
+      "role": "Astronomer",
+      "from": "Netherlands",
+      "note": "Measured the rotation of the Milky Way and later led the 21 cm mapping of its arms."
+    },
+    {
+      "name": "Fritz Zwicky",
+      "life": "1898 – 1974",
+      "role": "Astrophysicist",
+      "from": "Switzerland and USA",
+      "note": "Coined 'dark matter' for the missing mass of the Coma cluster."
+    },
+    {
+      "name": "Vera Rubin",
+      "life": "1928 – 2016",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Measured the flat rotation curves that make the modern case for dark matter."
+    },
+    {
+      "name": "Chia-Chiao Lin",
+      "life": "1916 – 2013",
+      "role": "Applied mathematician",
+      "from": "China and USA",
+      "note": "With Frank Shu, proposed that spiral arms are density waves."
+    },
+    {
+      "name": "Govind Swarup",
+      "life": "1929 – 2020",
+      "role": "Radio astronomer",
+      "from": "India",
+      "note": "Conceived and led the building of the Giant Metrewave Radio Telescope near Pune."
+    },
+    {
+      "name": "Andrea Ghez",
+      "life": "born 1965",
+      "role": "Astronomer",
+      "from": "USA",
+      "note": "Tracked stars round Sagittarius A* to weigh the black hole; Nobel Prize 2020."
+    },
+    {
+      "name": "Reinhard Genzel",
+      "life": "born 1952",
+      "role": "Astrophysicist",
+      "from": "Germany",
+      "note": "Led the European team that weighed the Galaxy's black hole; Nobel Prize 2020."
+    }
+  ],
+  "series": [
+    {
+      "id": "parallax",
+      "title": "Stars with a measured distance (parallax)",
+      "unit": "stars",
+      "log": true,
+      "after": "now",
+      "caption": "From Bessel's one star to Gaia's billion and a half: the bottom rung of the distance ladder, star by star.",
+      "points": [
+        {
+          "year": 1838,
+          "value": 1,
+          "label": "Bessel: 61 Cygni, the first stellar parallax"
+        },
+        {
+          "year": 1997,
+          "value": 118218,
+          "label": "ESA Hipparcos catalogue: 118,218 stars"
+        },
+        {
+          "year": 2018,
+          "value": 1300000000.0,
+          "label": "Gaia Data Release 2: parallaxes for more than 1.3 billion stars"
+        },
+        {
+          "year": 2022,
+          "value": 1470000000.0,
+          "label": "Gaia Data Release 3: 1.47 billion stars with full astrometry"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Galileo's 1610 book Sidereus Nuncius settled in a sentence what Democritus had guessed two thousand years earlier: the Milky Way is made of stars.",
+    "Hubble found the first Cepheid in Andromeda on a plate where he had first written N for nova, then crossed it out and wrote VAR!",
+    "Jansky's radio hiss from Sagittarius repeated every 23 hours 56 minutes, the length of a day measured by the stars, which is how he knew it came from beyond the Solar System.",
+    "The GMRT's thirty dishes near Pune stand among farms, and the telescope is counted an IEEE Milestone of engineering.",
+    "More than a third of humanity, including nearly 80% of North Americans, can no longer see the Milky Way from where they live (Falchi et al., 2016)."
+  ],
+  "sources": [
+    {
+      "title": "Milky Way",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Milky_Way"
+    },
+    {
+      "title": "Meteorology, Book I (Webster translation)",
+      "publisher": "Aristotle, via Elpenor",
+      "url": "https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/meteorology.asp?pg=15"
+    },
+    {
+      "title": "Ākāśagaṅgā",
+      "publisher": "Wisdom Library (Sanskrit dictionaries)",
+      "url": "https://www.wisdomlib.org/definition/akashaganga"
+    },
+    {
+      "title": "आकाशगंगा",
+      "publisher": "Wiktionary",
+      "url": "https://en.wiktionary.org/wiki/%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%97%E0%A4%82%E0%A4%97%E0%A4%BE"
+    },
+    {
+      "title": "Sidereus Nuncius",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+    },
+    {
+      "title": "Thomas Wright (astronomer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Wright_(astronomer)"
+    },
+    {
+      "title": "Universal Natural History and Theory of the Heavens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Universal_Natural_History_and_Theory_of_the_Heavens"
+    },
+    {
+      "title": "William Herschel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Herschel"
+    },
+    {
+      "title": "Henrietta Swan Leavitt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+    },
+    {
+      "title": "Jacobus Kapteyn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Kapteyn"
+    },
+    {
+      "title": "Harlow Shapley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harlow_Shapley"
+    },
+    {
+      "title": "Great Debate (astronomy)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Debate_(astronomy)"
+    },
+    {
+      "title": "The plate that changed the universe: M31-V1",
+      "publisher": "Carnegie Science, Observatories plate archive",
+      "url": "https://carnegiescience.edu/about/history/archives/plate-archives/m31var"
+    },
+    {
+      "title": "Edwin Hubble",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+    },
+    {
+      "title": "Hubble's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble%27s_law"
+    },
+    {
+      "title": "Georges Lemaître",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre"
+    },
+    {
+      "title": "Hubble sequence",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_sequence"
+    },
+    {
+      "title": "Observational evidence confirming Lindblad’s hypothesis of a rotation of the galactic system (Oort, 1927)",
+      "publisher": "Leiden University Scholarly Publications",
+      "url": "https://scholarlypublications.universiteitleiden.nl/handle/1887/6014"
+    },
+    {
+      "title": "Oort constants",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oort_constants"
+    },
+    {
+      "title": "Bertil Lindblad",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bertil_Lindblad"
+    },
+    {
+      "title": "Robert Julius Trumpler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Julius_Trumpler"
+    },
+    {
+      "title": "Fritz Zwicky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fritz_Zwicky"
+    },
+    {
+      "title": "Karl Guthe Jansky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karl_Guthe_Jansky"
+    },
+    {
+      "title": "Walter Baade",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walter_Baade"
+    },
+    {
+      "title": "Hydrogen line",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_line"
+    },
+    {
+      "title": "Harold Irving Ewen",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harold_Irving_Ewen"
+    },
+    {
+      "title": "Density wave theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Density_wave_theory"
+    },
+    {
+      "title": "Vera Rubin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vera_Rubin"
+    },
+    {
+      "title": "Extended rotation curves of high-luminosity spiral galaxies. IV (Rubin, Ford & Thonnard, 1978)",
+      "publisher": "NASA ADS",
+      "url": "https://ui.adsabs.harvard.edu/abs/1978ApJ...225L.107R/abstract"
+    },
+    {
+      "title": "Sagittarius A*",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sagittarius_A*"
+    },
+    {
+      "title": "Direct evidence for a bar at the Galactic center (Blitz & Spergel, 1991)",
+      "publisher": "Princeton University",
+      "url": "https://collaborate.princeton.edu/en/publications/direct-evidence-for-a-bar-at-the-galactic-center/"
+    },
+    {
+      "title": "Hubble Deep Fields",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/"
+    },
+    {
+      "title": "Hubble Deep Field",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble_Deep_Field"
+    },
+    {
+      "title": "Giant Metrewave Radio Telescope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giant_Metrewave_Radio_Telescope"
+    },
+    {
+      "title": "Milestones: Giant Metrewave Radio Telescope, 1994",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Giant_Metrewave_Radio_Telescope,_1994"
+    },
+    {
+      "title": "Interview with Yashwant Gupta, Centre Director, NCRA-TIFR",
+      "publisher": "IEEE Signal Processing Society",
+      "url": "https://signalprocessingsociety.org/newsletter/2021/01/interview-yashwant-gupta-professor-and-centre-director-ncra-tifr-pune-india"
+    },
+    {
+      "title": "HI 21-centimetre emission from an ensemble of galaxies at an average redshift of one (Chowdhury et al., 2020)",
+      "publisher": "arXiv / Nature 586, 369",
+      "url": "https://arxiv.org/abs/2010.06617"
+    },
+    {
+      "title": "AstroSat",
+      "publisher": "ISRO",
+      "url": "https://www.isro.gov.in/AstroSat.html"
+    },
+    {
+      "title": "Indian Astronomical Observatory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_Astronomical_Observatory"
+    },
+    {
+      "title": "Liftoff for ESA’s billion-star surveyor",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Liftoff_for_ESA_s_billion-star_surveyor"
+    },
+    {
+      "title": "Gaia creates richest star map of our Galaxy and beyond",
+      "publisher": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+    },
+    {
+      "title": "Gaia Data Release 3",
+      "publisher": "ESA Gaia Cosmos",
+      "url": "https://www.cosmos.esa.int/web/gaia/dr3"
+    },
+    {
+      "title": "A geometric distance measurement to the Galactic Center black hole with 0.3% uncertainty (GRAVITY Collaboration, 2019)",
+      "publisher": "arXiv / A&A 625, L10",
+      "url": "https://arxiv.org/abs/1904.05721"
+    },
+    {
+      "title": "Mass distribution in the Galactic Center based on interferometric astrometry of multiple stellar orbits (GRAVITY Collaboration, 2022)",
+      "publisher": "arXiv / A&A 657, L12",
+      "url": "https://arxiv.org/abs/2112.07478"
+    },
+    {
+      "title": "2020 Nobel Prize in Physics honours black hole research",
+      "publisher": "American Physical Society",
+      "url": "https://www.aps.org/about/news/2020/10/nobel-prize-black-hole"
+    },
+    {
+      "title": "Astronomers reveal first image of the black hole at the heart of our galaxy",
+      "publisher": "ESO",
+      "url": "https://www.eso.org/public/news/eso2208/"
+    },
+    {
+      "title": "NASA's Hubble shows Milky Way is destined for head-on collision",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-milky-way-is-destined-for-head-on-collision/"
+    },
+    {
+      "title": "Apocalypse When? No certainty of a Milky Way–Andromeda collision (Sawala et al., 2024/2025)",
+      "publisher": "arXiv / Nature Astronomy",
+      "url": "https://arxiv.org/abs/2408.00064"
+    },
+    {
+      "title": "Hubble reveals observable universe contains 10 times more galaxies than previously thought",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-reveals-observable-universe-contains-10-times-more-galaxies-than-previously-thought"
+    },
+    {
+      "title": "The circular velocity curve of the Milky Way from 5 to 25 kpc (Eilers et al., 2019)",
+      "publisher": "arXiv / ApJ 871, 120",
+      "url": "https://arxiv.org/abs/1810.09466"
+    },
+    {
+      "title": "The new world atlas of artificial night sky brightness (Falchi et al., 2016)",
+      "publisher": "Science Advances, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928945/"
+    },
+    {
+      "title": "Hipparcos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hipparcos"
+    },
+    {
+      "title": "Stellar parallax",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stellar_parallax"
+    },
+    {
+      "title": "Galaxies",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/universe/galaxies/"
+    }
+  ]
+}
